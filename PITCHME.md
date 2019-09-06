@@ -17,8 +17,10 @@ SlideStepは、マウス操作のアクションを取り込んだ音ゲーで�
 フォントアセット以外すべて自作です。
 
 フォント
-[Waptia-Light](https://moji-waku.com/waptia/)
-[数式フォント](http://sapphire.hacca.jp/font/sushiki.html)
+
+- [Waptia-Light](https://moji-waku.com/waptia/)
+
+- [数式フォント](http://sapphire.hacca.jp/font/sushiki.html)
 
 ---
 ```cs
